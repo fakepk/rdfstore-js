@@ -51,7 +51,7 @@
     "vinyl-source-stream": "^1.0.0"
   },
   "optionalDependencies": {
-     "sqlite3": "^3.x",
+     "sqlite3": "^4.0.6",
      "indexeddb-js": "0.0.14"
    },
    "dependencies": {
